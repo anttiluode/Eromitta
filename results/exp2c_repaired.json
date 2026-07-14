@@ -1,0 +1,42 @@
+{
+  "linear_dt0.06": {
+    "nvort": 0,
+    "core_ratio": null,
+    "sigma": 0.363
+  },
+  "linear_dt0.03": {
+    "nvort": 0,
+    "core_ratio": null,
+    "sigma": 0.364
+  },
+  "intensity_dt0.06": {
+    "nvort": 1564,
+    "core_ratio": 0.893,
+    "sigma": 0.651
+  },
+  "intensity_dt0.03": {
+    "nvort": 1546,
+    "core_ratio": 0.864,
+    "sigma": 0.65
+  },
+  "gradient_dt0.06": {
+    "nvort": 3400,
+    "core_ratio": 0.95,
+    "sigma": 0.695
+  },
+  "gradient_dt0.03": {
+    "nvort": 3448,
+    "core_ratio": 0.923,
+    "sigma": 0.692
+  },
+  "mixed_dt0.06": {
+    "nvort": 1408,
+    "core_ratio": 0.834,
+    "sigma": 0.537
+  },
+  "mixed_dt0.03": {
+    "nvort": 1442,
+    "core_ratio": 0.881,
+    "sigma": 0.538
+  }
+}

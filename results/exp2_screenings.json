@@ -1,0 +1,40 @@
+{
+  "A_linear": {
+    "nvort": 0,
+    "sigma": 0.36287974388772537,
+    "seconds": 7.9
+  },
+  "B_intensity": {
+    "nvort": 402,
+    "sigma": 0.6515092986734646,
+    "seconds": 7.7
+  },
+  "C_gradient": {
+    "nvort": 2114,
+    "sigma": 0.696135212395001,
+    "seconds": 8.1
+  },
+  "Cf_gradient_flux": {
+    "nvort": 512,
+    "sigma": 0.49595564333305386,
+    "seconds": 6.7
+  },
+  "D_mixed": {
+    "nvort": 826,
+    "sigma": 0.5374335734942306,
+    "seconds": 8.3
+  },
+  "C4_gradient_amp4": {
+    "nvort": 2036,
+    "sigma": 0.7007800635495549,
+    "seconds": 8.0
+  },
+  "verdicts": {
+    "P1_gradient_sterile": false,
+    "P1_KILL": true,
+    "P2_mass_rescues": true,
+    "P2_KILL": false,
+    "P3_amplitude_no_substitute": false,
+    "P4_sigma": false
+  }
+}

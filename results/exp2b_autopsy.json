@@ -1,0 +1,32 @@
+{
+  "B_intensity": {
+    "nvort": 402,
+    "core_I_over_mean_I": 0.9873589706034864,
+    "net_charge": 0,
+    "A1_pass": false,
+    "A2_pass": true
+  },
+  "C_gradient": {
+    "nvort": 2114,
+    "core_I_over_mean_I": 1.009185905496033,
+    "net_charge": 0,
+    "A1_pass": false,
+    "A2_pass": true
+  },
+  "A3_dt_half": {
+    "nvort": 588,
+    "change": 0.7218543046357616,
+    "A3_pass": false
+  },
+  "A4_N192": {
+    "nvort": 4264,
+    "density_128": 0.1290283203125,
+    "density_192": 0.11566840277777778,
+    "core_I_over_mean_I": 1.0067174235238694,
+    "A4_pass": false
+  },
+  "A5_hi_k_power": {
+    "B_intensity": 0.6230973154479874,
+    "C_gradient": 0.5759659934905734
+  }
+}

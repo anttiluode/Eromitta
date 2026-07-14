@@ -1,0 +1,11 @@
+{
+  "linear_dt0.06": 0,
+  "linear_dt0.03": 0,
+  "intensity_dt0.06": 402,
+  "intensity_dt0.03": 410,
+  "gradient_dt0.06": 2114,
+  "gradient_dt0.03": 2072,
+  "mixed_dt0.06": 826,
+  "mixed_dt0.03": 800,
+  "gradient_over_intensity_dt0.03": 5.05
+}

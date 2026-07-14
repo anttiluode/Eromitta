@@ -1,0 +1,15 @@
+{
+  "T1": {
+    "max_residual": 5.258016244624741e-13,
+    "passed": true,
+    "timelike_fraction_unrestricted": 0.12663755458515283
+  },
+  "T2": {
+    "max_relative_error": 6.364260339399614e-07,
+    "passed": true
+  },
+  "T3": {
+    "max_error": 0.0,
+    "passed": true
+  }
+}
