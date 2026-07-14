@@ -1,5 +1,9 @@
 # Eromitta — the measure of the difference
 
+Added the phiworld like html sim that shows the field with the Bianconi lagrangian (dont take my word for it) from fable:
+
+https://anttiluode.github.io/Eromitta/
+
 *eromitta (Finnish): ero = difference, mitta = measure. A relative entropy is exactly that: the measure of the difference between two states. Here, between two metrics.*
 
 **Bianconi's "Gravity from entropy" (arXiv:2408.14391), run head-on into the Clockfield and phiworld. One analytic identity that closes the open seam. One registered kill that fired and survived its own autopsy — and inverted the ecosystem's headline. One cosmological constant that turns out to be a defect-energy census.**
